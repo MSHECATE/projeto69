@@ -1,0 +1,25 @@
+#contact iframe
+{
+    width: 100%;
+}
+.viagem_mainDiv { border: 1px solid lightgrey; }
+.viagem_mainDiv h5 , .viagem_mainDiv p { margin: 20px; }
+body { 
+    background-color: #c5c5c5;
+}
+#welcome { 
+    bottom: 0; 
+    background: linear-gradient(#ffffff 0%, #c5c5c5 100%);
+   display: table; 
+   width: 100%;
+        height: 100%; 
+         }
+
+         h1 { 
+            font-size: 30px; 
+                    font-family: comic;
+                     font-weight: 300;
+                     color: rgba(33, 33, 33, 0.901);
+                     font-weight: bold;
+                     }
+                     
